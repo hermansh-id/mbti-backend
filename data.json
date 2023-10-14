@@ -1,0 +1,483 @@
+{
+    "questions": [
+        {
+            "id": "1",
+            "question": "Ketika kamu pergi ke suatu tempat sehari penuh, apakah kamu lebih suka",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Merencanakan segalanya sebelumnya, atau",
+                    "point": 2,
+                    "type": "J"
+                },
+                {
+                    "id": "B",
+                    "text": "Melakukannya saja!",
+                    "point": 2,
+                    "type": "P"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "question": "Jika kamu menjadi seorang guru, apakah kamu lebih suka mengajar",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Mata pelajaran berbasis fakta, atau",
+                    "point": 2,
+                    "type": "S"
+                },
+                {
+                    "id": "B",
+                    "text": "Mata pelajaran yang melibatkan pendapat atau teori?",
+                    "point": 1,
+                    "type": "N"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "question": "Apakah kamu biasanya",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Bersosialisasi dengan berbagai kelompok orang, atau",
+                    "point": 2,
+                    "type": "E"
+                },
+                {
+                    "id": "B",
+                    "text": "Lebih tenang dan pendiam?",
+                    "point": 1,
+                    "type": "I"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "question": "Apakah kamu cenderung membiarkan",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Perasaanmu mengendalikan pikiranmu, atau",
+                    "point": 1,
+                    "type": "F"
+                },
+                {
+                    "id": "B",
+                    "text": "Pikiranmu mengendalikan perasaanmu?",
+                    "point": 2,
+                    "type": "T"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "question": "Saat melakukan sesuatu yang banyak orang lakukan, apakah kamu lebih suka",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Menciptakan cara sendiri, atau",
+                    "point": 1,
+                    "type": "S"
+                },
+                {
+                    "id": "B",
+                    "text": "Melakukannya seperti yang diterima?",
+                    "point": 2,
+                    "type": "N"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "question": "Di antara teman-temanmu, apakah kamu",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Selalu update dengan kabar semua orang, atau",
+                    "point": 2,
+                    "type": "E"
+                },
+                {
+                    "id": "B",
+                    "text": "Salah satu yang terakhir tahu tentang perkembangan?",
+                    "point": 1,
+                    "type": "I"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "question": "Bagaimana perasaanmu tentang membuat daftar hal yang harus kamu selesaikan selama akhir pekan",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Membantu kamu,",
+                    "point": 2,
+                    "type": "J"
+                },
+                {
+                    "id": "B",
+                    "text": "Membuatmu stres, atau",
+                    "point": 1,
+                    "type": "P"
+                },
+                {
+                    "id": "C",
+                    "text": "Membuatmu tertekan secara positif?",
+                    "point": 1,
+                    "type": "J"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "question": "Ketika kamu memiliki tugas khusus, apakah kamu suka",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Mengatur segalanya dengan hati-hati sebelum memulai, atau",
+                    "point": 2,
+                    "type": "J"
+                },
+                {
+                    "id": "B",
+                    "text": "Mengetahui apa yang diperlukan seiring perjalanan?",
+                    "point": 1,
+                    "type": "P"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "question": "Apakah kamu cenderung memiliki",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Persahabatan yang luas dengan banyak orang berbeda, atau",
+                    "point": 2,
+                    "type": "E"
+                },
+                {
+                    "id": "B",
+                    "text": "Persahabatan yang dalam dengan sedikit orang?",
+                    "point": 1,
+                    "type": "I"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "question": "Apakah kamu lebih mengagumi orang yang",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Biasa-biasa saja tanpa mencari perhatian, atau",
+                    "point": 1,
+                    "type": "S"
+                },
+                {
+                    "id": "B",
+                    "text": "Terlalu orisinal dan individualistis untuk peduli apakah mereka menarik perhatian atau tidak?",
+                    "point": 2,
+                    "type": "N"
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "question": "Apakah kamu lebih suka",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Merencanakan piknik, pesta, dll, jauh-jauh hari, atau",
+                    "point": 2,
+                    "type": "J"
+                },
+                {
+                    "id": "B",
+                    "text": "Bebas melakukan apa pun yang terlihat menyenangkan saat waktunya tiba?",
+                    "point": 1,
+                    "type": "P"
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "question": "Apakah kamu biasanya lebih cocok dengan",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Orang-orang realistis, atau",
+                    "point": 2,
+                    "type": "S"
+                },
+                {
+                    "id": "B",
+                    "text": "Orang-orang yang penuh imajinasi?",
+                    "point": 1,
+                    "type": "N"
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "question": "Saat kamu bersama sekelompok orang, apakah kamu biasanya lebih suka",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Ikut serta dalam percakapan kelompok, atau",
+                    "point": 2,
+                    "type": "E"
+                },
+                {
+                    "id": "B",
+                    "text": "Menjauh dan mendengarkan terlebih dahulu?",
+                    "point": 1,
+                    "type": "I"
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "question": "Apakah lebih baik bila dipanggil",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Orang yang memiliki perasaan yang mendalam, atau",
+                    "point": 2,
+                    "type": "F"
+                },
+                {
+                    "id": "B",
+                    "text": "Orang yang konsisten dan masuk akal?",
+                    "point": 1,
+                    "type": "T"
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "question": "Saat membaca untuk kesenangan, apakah kamu menikmati",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Cara aneh atau orisinal dalam menyampaikan hal-hal, atau",
+                    "point": 2,
+                    "type": "N"
+                },
+                {
+                    "id": "B",
+                    "text": "Penulis yang mengatakan tepat apa yang dimaksud?",
+                    "point": 1,
+                    "type": "S"
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "question": "Apakah kamu lebih suka",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Berbicara dengan mudah kepada hampir siapa pun selama yang diperlukan, atau",
+                    "point": 2,
+                    "type": "E"
+                },
+                {
+                    "id": "B",
+                    "text": "Menemukan banyak hal yang ingin kamu katakan hanya kepada beberapa orang atau dalam situasi tertentu?",
+                    "point": 1,
+                    "type": "I"
+                }
+            ]
+        },
+        {
+            "id": "17",
+            "question": "Bagaimana perasaanmu tentang mengikuti jadwal",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Menarik bagi kamu, atau",
+                    "point": 2,
+                    "type": "J"
+                },
+                {
+                    "id": "B",
+                    "text": "Membatasi kamu?",
+                    "point": 1,
+                    "type": "P"
+                }
+            ]
+        },
+        {
+            "id": "18",
+            "question": "Ketika sesuatu sudah direncanakan jauh-jauh hari, apakah kamu merasa",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Senang bisa merencanakan sesuai rencana, atau",
+                    "point": 2,
+                    "type": "J"
+                },
+                {
+                    "id": "B",
+                    "text": "Agak tidak menyenangkan terikat?",
+                    "point": 1,
+                    "type": "P"
+                }
+            ]
+        },
+        {
+            "id": "19",
+            "question": "Apakah kamu lebih sukses dalam",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Mengikuti rencana yang teliti, atau",
+                    "point": 2,
+                    "type": "J"
+                },
+                {
+                    "id": "B",
+                    "text": "Menangani situasi yang tidak terduga dan dengan cepat mengetahui apa yang harus dilakukan?",
+                    "point": 1,
+                    "type": "P"
+                }
+            ]
+        },
+        {
+            "id": "20",
+            "question": "Apakah kamu lebih suka dianggap sebagai",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Orang yang praktis, atau",
+                    "point": 2,
+                    "type": "S"
+                },
+                {
+                    "id": "B",
+                    "text": "Orang yang berpikiran kreatif dan inovatif?",
+                    "point": 1,
+                    "type": "N"
+                }
+            ]
+        },
+        {
+            "id": "21",
+            "question": "Dalam kelompok besar, apakah kamu sering",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Memperkenalkan orang lain, atau",
+                    "point": 2,
+                    "type": "E"
+                },
+                {
+                    "id": "B",
+                    "text": "Diperkenalkan oleh orang lain?",
+                    "point": 1,
+                    "type": "I"
+                }
+            ]
+        },
+        {
+            "id": "22",
+            "question": "Apakah kamu biasanya",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Lebih menghargai emosi daripada logika, atau",
+                    "point": 2,
+                    "type": "F"
+                },
+                {
+                    "id": "B",
+                    "text": "Lebih menghargai logika daripada perasaan?",
+                    "point": 1,
+                    "type": "T"
+                }
+            ]
+        },
+        {
+            "id": "23",
+            "question": "Apakah kamu lebih suka memiliki teman yang",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Selalu memiliki ide-ide baru, atau",
+                    "point": 2,
+                    "type": "N"
+                },
+                {
+                    "id": "B",
+                    "text": "Seseorang yang memiliki kaki di tanah?",
+                    "point": 1,
+                    "type": "S"
+                }
+            ]
+        },
+        {
+            "id": "24",
+            "question": "Apakah orang yang kamu temui baru dapat mengetahui apa yang kamu minati",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Secara langsung,",
+                    "point": 2,
+                    "type": "E"
+                },
+                {
+                    "id": "B",
+                    "text": "Hanya setelah mereka benar-benar mengenal kamu?",
+                    "point": 1,
+                    "type": "I"
+                }
+            ]
+        },
+        {
+            "id": "25",
+            "question": "Dalam pekerjaan sehari-harimu, apakah kamu",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Biasanya merencanakan agar tidak perlu bekerja dibawah tekanan, atau","point": 2,
+                    "type": "J"
+                },
+                {
+                    "id": "B",
+                    "text": "Lebih suka situasi darurat yang membuat kamu bekerja melawan waktu, atau",
+                    "point": 1,
+                    "type": "P"
+                },
+                {
+                    "id": "C",
+                    "text": "Membenci bekerja di bawah tekanan?",
+                    "point": 1,
+                    "type": "I"
+                }
+            ]
+        },
+        {
+            "id": "26",
+            "question": "Apakah kamu biasanya",
+            "answers": [
+                {
+                    "id": "A",
+                    "text": "Menunjukkan perasaanmu dengan bebas, atau",
+                    "point": 2,
+                    "type": "F"
+                },
+                {
+                    "id": "B",
+                    "text": "Menyimpan perasaanmu sendiri?",
+                    "point": 1,
+                    "type": "T"
+                }
+            ]
+        }
+    ]
+}
